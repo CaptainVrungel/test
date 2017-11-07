@@ -2,3 +2,4 @@ test document 1
 change 1 in document 1
 change 2 in document 1
 change 3 in document 1
+change 4 in document 1
